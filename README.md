@@ -1,4 +1,4 @@
-# 🍎🥦 Clasificador de Frutas y Verduras
+# Clasificador de Frutas y Verduras
 
 Sistema de clasificación binaria de imágenes usando Machine Learning para distinguir entre frutas y verduras con una interfaz gráfica intuitiva.
 
@@ -13,7 +13,7 @@ Este proyecto implementa un clasificador de imágenes que utiliza **Gradient Boo
 
 ### Características principales:
 
-- ✨ **Extracción de características avanzadas**: color, textura, forma y estadísticas
+- **Extracción de características avanzadas**: color, textura, forma y estadísticas
 - **Data Augmentation**: rotación, flip, ajuste de brillo/saturación, ruido, crop
 - **Modelo robusto**: Gradient Boosting con 300 estimadores
 - **Interfaz gráfica**: aplicación Tkinter para clasificación en tiempo real
@@ -69,7 +69,7 @@ clasificador-frutas-verduras/
 └── improved_classifier.pkl      # Modelo entrenado (generado)
 ```
 
-## 🎓 Uso
+## Uso
 
 ### 1. Preparar el Dataset
 
