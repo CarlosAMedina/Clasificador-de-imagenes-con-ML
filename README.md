@@ -5,7 +5,6 @@ Sistema de clasificación binaria de imágenes usando Machine Learning para dist
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Descripción
 
