@@ -29,7 +29,7 @@ Este proyecto implementa un clasificador de imágenes que utiliza **Gradient Boo
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/clasificador-frutas-verduras.git
+git clone https://github.com/CarlosAMedina/Clasificador-de-imagenes-con-ML.git
 cd clasificador-frutas-verduras
 ```
 
